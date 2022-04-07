@@ -2,6 +2,9 @@
 
 This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.
 
+
+![workflowrun](https://github.com/vijayjethani/exercise-publish-package/actions/workflows/grading.yml/badge.svg)
+
 ## About this exercise
 
 :warning: A grading script exists under `.github/workflows/grading.yml`. You do not need to use this workflow for any purpose and **altering its contents will affect the repository's ability to assess your exercise and give feedback.**
